@@ -1,7 +1,7 @@
 
 ## 🚀 Hello, I'm Karina! 👋
 
-- 🌱 I’m currently learning Javascript, Docker, Databases..
+- 🌱 I’m currently learning Javascript,React, Docker, Databases..
 
 ## 🌍 Connect with Me
 
